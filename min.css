@@ -8654,7 +8654,7 @@ button.fe:focus {
 
 .device-pair .laptop-preview-sizer,
 .device-pair .desktop-preview-sizer {
-    z-index: 1
+    z-index: 2
 }
 
 .device-pair .tablet-preview-sizer:nth-child(1) {
